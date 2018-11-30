@@ -1,5 +1,5 @@
 # find-close-meteorites
-Demo project that uses Python and NASA data to find meteor landing sites
+Demo project that uses Python and NASA data to find meteor landing sites and distance from impact.
 
 ## Running
 
